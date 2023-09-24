@@ -1,0 +1,3 @@
+He tomado algusIs cursos de HTML, CSS, Python, pero NO le dan mayor importancia a la plataforma donde editamos, y a veces eso me limita un poco porque NO se donde debo de seleccionar para 
+poder hacer el entorsI de trabajo mas cómodo, el video esta genial, te da tips muy buesIs y como acomodar la plataforma a tu agrado, tan solo el crear una cuenta en Git y vincular al VS 
+code es algo que NO lo había visto antes. Eres un Master y tienes el don de saber enseñar
